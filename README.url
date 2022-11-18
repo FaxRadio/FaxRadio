@@ -226,23 +226,24 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1442737368.m3u8
 #EXTINF:0,AXN tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://adslfibra.pt/sites/adslfibra.pt/files/images/axn-programacao-825x293.gif" - AXN
 https://googlez03.ml/canais/axn/xxaxnxx_20221114023950_0403_02781460_10000000.json
 #EXTINF:0,SPACE HD tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.picasion.com/pic92/5a49ae607bcd90fe0b645ce74b05a308.gif" -SPACE HD
-https://br.embedflix.net/p2p/space/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA5OjQxOjM3IFBNJmhhc2hfdmFsdWU9VG0vckhtdDlpUytGdklHcGhrcHZHUT09JnZhbGlkbWludXRlcz05MA==
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=1375653&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMiAxOjM3OjE4IEFNJmhhc2hfdmFsdWU9MDFtTGxTYWNMdW5OR1ZtaHgreS9adz09JnZhbGlkbWludXRlcz05MA==
+
 #EXTINF:0,SPACE HD tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.picasion.com/pic92/de8d26d6b3e485671fbf0313f811ff7e.gif" -SPACE HD
-https://br.embedflix.net/p2p/space/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA5OjQxOjM3IFBNJmhhc2hfdmFsdWU9VG0vckhtdDlpUytGdklHcGhrcHZHUT09JnZhbGlkbWludXRlcz05MA==
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=1375653&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMiAxOjM3OjE4IEFNJmhhc2hfdmFsdWU9MDFtTGxTYWNMdW5OR1ZtaHgreS9adz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0,SPACE HD tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.picasion.com/pic92/de8d26d6b3e485671fbf0313f811ff7e.gif" -SPACE HD
-https://br.embedflix.net/p2p/space/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA5OjQxOjM3IFBNJmhhc2hfdmFsdWU9VG0vckhtdDlpUytGdklHcGhrcHZHUT09JnZhbGlkbWludXRlcz05MA==
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=1375653&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMiAxOjM3OjE4IEFNJmhhc2hfdmFsdWU9MDFtTGxTYWNMdW5OR1ZtaHgreS9adz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0,SPACE HD tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.picasion.com/pic92/de8d26d6b3e485671fbf0313f811ff7e.gif" -SPACE HD
-https://br.embedflix.net/p2p/space/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA5OjQxOjM3IFBNJmhhc2hfdmFsdWU9VG0vckhtdDlpUytGdklHcGhrcHZHUT09JnZhbGlkbWludXRlcz05MA==
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=1375653&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMiAxOjM3OjE4IEFNJmhhc2hfdmFsdWU9MDFtTGxTYWNMdW5OR1ZtaHgreS9adz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0,SPACE HD tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.picasion.com/pic92/de8d26d6b3e485671fbf0313f811ff7e.gif" -SPACE HD
-https://br.embedflix.net/p2p/space/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA5OjQxOjM3IFBNJmhhc2hfdmFsdWU9VG0vckhtdDlpUytGdklHcGhrcHZHUT09JnZhbGlkbWludXRlcz05MA==
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=1375653&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMiAxOjM3OjE4IEFNJmhhc2hfdmFsdWU9MDFtTGxTYWNMdW5OR1ZtaHgreS9adz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0,SPACE HD tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.picasion.com/pic92/5a49ae607bcd90fe0b645ce74b05a308.gif" -SPACE HD
-https://br.embedflix.net/p2p/space/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA5OjQxOjM3IFBNJmhhc2hfdmFsdWU9VG0vckhtdDlpUytGdklHcGhrcHZHUT09JnZhbGlkbWludXRlcz05MA==
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=1375653&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMiAxOjM3OjE4IEFNJmhhc2hfdmFsdWU9MDFtTGxTYWNMdW5OR1ZtaHgreS9adz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0,SPACE HD² tvg-id="iddocanaldetelevisao" tvg-logo="https://media.tenor.com/QUp5gCJpPHEAAAAM/science-fiction-programmes-scifi-tv.gif" -SPACE HD²
-https://br.embedflix.net/p2p/space/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA5OjQxOjM3IFBNJmhhc2hfdmFsdWU9VG0vckhtdDlpUytGdklHcGhrcHZHUT09JnZhbGlkbWludXRlcz05MA==
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=1375653&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMiAxOjM3OjE4IEFNJmhhc2hfdmFsdWU9MDFtTGxTYWNMdW5OR1ZtaHgreS9adz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0,SPACE HD tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.picasion.com/pic92/de8d26d6b3e485671fbf0313f811ff7e.gif" -SPACE HD
-https://br.embedflix.net/p2p/space/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA5OjQxOjM3IFBNJmhhc2hfdmFsdWU9VG0vckhtdDlpUytGdklHcGhrcHZHUT09JnZhbGlkbWludXRlcz05MA==
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=1375653&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMiAxOjM3OjE4IEFNJmhhc2hfdmFsdWU9MDFtTGxTYWNMdW5OR1ZtaHgreS9adz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0,SPACE HD tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.picasion.com/pic92/5a49ae607bcd90fe0b645ce74b05a308.gif" -SPACE HD
-https://br.embedflix.net/p2p/space/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyMiA5OjQxOjM3IFBNJmhhc2hfdmFsdWU9VG0vckhtdDlpUytGdklHcGhrcHZHUT09JnZhbGlkbWludXRlcz05MA==
+https://br.embedflix.net/p2p/space/chunks.m3u8?nimblesessionid=1375653&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMiAxOjM3OjE4IEFNJmhhc2hfdmFsdWU9MDFtTGxTYWNMdW5OR1ZtaHgreS9adz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:0,TNT tvg-id="iddocanaldetelevisao" group-title="televisao" tvg-logo="https://i.gifer.com/origin/c4/c4f9a3d50ca8cab114718f62d51d6e20_w200.gif" -TNT
 http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396534
 #EXTINF:0,TNT HD tvg-id="iddocanaldetelevisao" tvg-logo="https://i.pinimg.com/originals/56/33/e8/5633e8cc3c33494403090a041658a56e.gif" -TNT HD
