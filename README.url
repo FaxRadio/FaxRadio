@@ -1,4 +1,5 @@
-#EXTM3U    android.intent.action.VIEW
+#EXTM3U
+https://cdnhd.iblups.com/hls/JcG48OdGmW.m3u8
 #EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR
 http://stream.zeno.fm/9kcy4bqq498uv
 #EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR 
@@ -6441,4 +6442,3 @@ https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2009%20-%20
 #EXTINF:0,Ep.10
 #EXTVLCOPT:network-caching=1000
 https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2010%20-%20Escaladores%20%28Dublado%29.mp4
-
